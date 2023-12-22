@@ -4,5 +4,5 @@ doing things with git lol
 
 learneing git in gods year 2023 :)
 
-woohooo git hub!!
+woo git hub!!
 yuh
